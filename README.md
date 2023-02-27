@@ -8,3 +8,5 @@
 영상제작: Pictory AI (https://app.pictory.ai/)
 
 한국어더빙: 클로바더빙 (https://clovadubbing.naver.com/)
+
+스크립트번역: DeepL 번역기 (https://www.deepl.com/translator/)
